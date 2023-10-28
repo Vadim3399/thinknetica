@@ -20,4 +20,3 @@ puts months
 # month_days.each do |month, days|
 #   puts month if days == 30
 # end
-
